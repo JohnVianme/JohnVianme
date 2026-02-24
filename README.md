@@ -1,4 +1,4 @@
-## Hello!👋
+## Hello!
 Welcome to my GitHub Page. I am John, a Computer Science student. 
 
 <!--
