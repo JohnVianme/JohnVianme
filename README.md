@@ -1,5 +1,5 @@
 ## Hello World!
-Welcome to my GitHub Page. I am John, a Computer Science student. 
+Hello, my name is John and I am a Senoir Computer Science Major at the University of Arizona. I started my academic journal intrigued by the intricate nature of computers and their upbringing. I started with a simple interest in taking things apart with a screwdriver to become an aspiring software developer.
 
 <!--
 **JohnVianme/JohnVianme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
